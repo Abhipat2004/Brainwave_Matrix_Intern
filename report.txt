@@ -1,0 +1,26 @@
+           Report 
+           
+🔸 Title: Sales Data Analysis Report for Superstore
+🔸 Date: 28 May 2025
+🔸 Prepared by: Abhineet Pathak
+
+🔸 1. Objective
+       To analyze sales, profit, and category-wise performance of a commercial superstore and identify areas of improvement.
+
+🔸 2. Key Insights
+       The highest sales come from Technology.
+       The most profitable region is West.
+
+🔸 3. Visuals
+       Bar charts showing category-wise sales and profit
+       Sub-category-wise top/bottom performers
+
+🔸 4. Conclusion
+       We recommend focusing more on profitable sub-categories and optimizing discounts. The West region shows strong performance and should be leveraged further.
+
+
+
+
+
+
+
