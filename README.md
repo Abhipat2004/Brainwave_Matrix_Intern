@@ -6,7 +6,7 @@ Analyze sales and profit data from a commercial superstore to identify key insig
  Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
-- CSV Dataset
+- CSV Dataset (superstore dataset from Kaggle)
 
  Files
 - 'Sample - Superstore.csv': Raw sales data.
